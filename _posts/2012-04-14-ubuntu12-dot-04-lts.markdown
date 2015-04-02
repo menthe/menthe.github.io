@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Ubuntu12.04 LTS"
+date: 2012-04-14 01:09
+comments: true
+categories: LINUX
+---
+由于昨天发生的一件事，心里很不开心。今天一天都没有心情学习，早上的课也没有去，想来想去还是折腾一下电脑吧。
+
+说一下以前的电脑系统：win7 sp1 + mac 10.6.8.本来是想安装mac 10.7.2的，但是发现以前下载的版本是不对的。于是就只能改把mac系统给删掉了，windows显然是不能动的。因为里面有太多的数据是要保存的。想来想去，还是把mac删掉吧。把以前的ubuntu再玩一玩。顺便说一下自己的linux经历，刚开始接触linux的时候，相信和很多人一样都是从ubuntu开始的，后来对ubuntu的鄙视越来越深，至于原因也就不说了，就转RH系列的了。但是自从gnome3发布之后，我一直觉得gnome3对无触摸屏的操作手感不好。相反，ubuntu的unity对我的吸引力更大。于是，今晚就开始折腾ubuntu吧。
+
+安装的时候出现个问题，就是一没注意，就把grub安装到mbr上了，其实这样做对双系统的引导更有好处，但是说实话，我不太喜欢grub的引导界面。查了一下，修复的方法是用win7光盘引导，进入dos环境，两个命令就搞定了。分别是bootrec/fixmbr   bootrec/fixboot，结束。
+<!--more-->
+最后上两张图吧。不得不说，越来越像mac了。。。
+
+<img class="aligncenter" title="Ubuntu12.04 LTS" src="http://fmn.rrfmn.com/fmn058/20120414/0150/p_large_AOQM_6d5200000be01261.jpg" alt="Ubuntu12.04 LTS" width="720" height="404" />
+<img class="aligncenter" title="Ubuntu12.04 LTS" src="http://fmn.rrimg.com/fmn059/20120414/0150/p_large_Serc_208600003b2b1261.jpg" alt="Ubuntu12.04 LTS" width="720" height="404" />
