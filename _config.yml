@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            光輝歲月
+locale:           zh_CN
 url:              
 
 
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Harris
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "An IT Pro.<br />PM. Web Developer."
+  email: i@harris.wang
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: harrisplus
+  facebook: imharriswang
   google:
-    plus: #username
-    analytics: 
+  plus: #username
+  analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: menthe
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
