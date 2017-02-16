@@ -2,14 +2,14 @@
 
 title:            光輝歲月
 locale:           zh_CN
-url:              
+url:
 
 
 # Jekyll configuration
 
 permalink:   /blog/:year/:month/:title.html
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -35,11 +35,11 @@ owner:
   facebook: imharriswang
   google:
   plus: #username
-  analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+  analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: menthe
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
